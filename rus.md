@@ -146,5 +146,5 @@ WebGL контекста, и должно получиться большое и
 [2]: http://www.khronos.org/opengles/
 [3]: https://developer.mozilla.org/en-US/docs/HTML/Canvas
 [4]: https://developer.mozilla.org/samples/webgl/sample1/index.html
-[5]: http://dev.opera.com/articles/view/an-introduction-to-webgl/
+[5]: https://dev.opera.com/articles/introduction-to-webgl-part-1/
 [6]: http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Table-of-Contents.html
